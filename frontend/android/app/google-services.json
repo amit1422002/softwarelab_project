@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427705120004",
+    "project_id": "softwarelab-d0a18",
+    "storage_bucket": "softwarelab-d0a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427705120004:android:b2419fb3bfbb6d50608c51",
+        "android_client_info": {
+          "package_name": "com.example.softwarelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0X_FZbmKd9yDQhWfMz-cGrrEs_fMFmK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
